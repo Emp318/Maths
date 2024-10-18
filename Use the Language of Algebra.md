@@ -42,4 +42,30 @@ graph  TD;
 	6 --> three_4["3"]
 ```
 ### List the primes of each number. Match primes vertically when possible.
+- $12=2.3.3$ 
+- $18 = 2.3.3$
+----
+### Bring down the number from each column
+- $12 = 2 . 2 . 3$
+- $18 = 2.3.3$
+### Multiply the Factors
+$LCM =2.2.3.3$
+$LCM=36$
+
+# Find the least common multiple using the prime factor method
+- Write each number as a product of primes
+- List the primes of each number. Match primes vertically when possible.
+- Bring down the columns.
+- Multiply the factors.
+# Variable 
+A variable is a letter that represents a number whose value may change.
+
+# Constant
+A constant is a number whose value always stays the same.
+# Operation Symbols
+
+
+
+
+
 
