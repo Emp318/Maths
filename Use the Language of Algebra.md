@@ -25,3 +25,21 @@ The prime factorization of a number is the product of prime numbers that equals 
 # Least Common Multiple
 The Least common multiple (LCM) of two numbers is the smallest number that is a multiple of both numbers.
 
+# Example
+Find the LCM of $12$ and $18$ using the prime factors method.
+## Solution
+ ###  Write each number as product of Primes.
+ 
+```mermaid
+graph  TD;
+	12 --> three_1["3"]; 
+	12 --> 4;
+	4 --> two_1["2"];
+	4 --> two_2["2"];
+	18 --> three_2["3"];
+	18 --> 6;
+	6 --> two_3["2"];
+	6 --> three_4["3"]
+```
+### List the primes of each number. Match primes vertically when possible.
+
