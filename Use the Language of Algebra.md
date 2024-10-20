@@ -64,8 +64,27 @@ A variable is a letter that represents a number whose value may change.
 A constant is a number whose value always stays the same.
 # Operation Symbols
 
+![[Pasted image 20241020143500.png]]
+# Equality Symbol
+$a=b$ is read "$a$ is equal to $b$." The symbol "$=$" is called the equal sign.
 
+# Inequality
+$a<b$ is read "$a$ is less than $b$". $a$ is to the left of $b$ on the number line.
+![[Pasted image 20241020143803.png]]
 
-
-
-
+$a > b$ is read "$a$ is read greater than $b$". $a$ is to the right of $b$ on the number line.
+![[Pasted image 20241020145546.png]]
+The expression $a<b$ or $a>b$ can be read from left to right or right to left. 
+$a<b$ is equivalent to $b>a$.
+$a>b$ is equivalent to $b<a$.
+# Inequality Symbols
+![[Pasted image 20241020145850.png]]
+# Grouping Symbols
+Parentheses $()$
+Brackets []
+Braces { }
+# Expression
+An expression is a number, a variable, or a combination of numbers and variables using operation symbols.
+# Equation
+An equation is two expressions connected by an equal sign.
+# Exponential Notation
