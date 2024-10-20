@@ -83,8 +83,29 @@ $a>b$ is equivalent to $b<a$.
 Parentheses $()$
 Brackets []
 Braces { }
+Absolute value | | 
 # Expression
 An expression is a number, a variable, or a combination of numbers and variables using operation symbols.
 # Equation
 An equation is two expressions connected by an equal sign.
 # Exponential Notation
+$a^n$ means multiply a itself, n times. The expression $a^n$ is read a to the ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGgAAAAXCAIAAABoCp3iAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAJLSURBVFhHY/z//z/DKCAdMEHpUUAioGnA/d6dzQgEgStfQgWGEaBywF3q0XCa/wDKYWB1nbAri0HdWlMcKjCMAFUD7vfxVV3v7LUVoFwgePrkOoOzviaUN6wAsHKgDri/PFiUHWooA3vpQZDYL2CCc5x9fFelBS8DA6/74jtglcMCUC/ggOBkg6h690UoBwSAAgyyFrlLrn7/da5dnaFgH1R8GABqZtVLh5YzRNrpQXlA8ODqwdeyyRN7o7U4vj+9djPAQgsqMQwAFQPu7qkND6LtDKE8IPh9+8x+s6pIM1Yg8+zeVdbeJsOokiA64H4/3l1lycfIyBe+9imY4yDGwcihUrb/HVQBw6OrRxXEBRh+XJuTPfMqSOD8sdXs9lpqIOb1s9t/mipLX1u65Ng3EH8YAGiWJQA+X5pU2H3u7cfNsQzsBbNnR2Wuu/f9183p1gwMASteQNXcWewOqgK0E1bc/AXi35/nyBC7+SNY7smaMF4GXovWY2/B3GEASKsc7sy2ZmBnd5wOCRlQMMKDZqQBksq43/fOH2XgK2lNVgMWW8Cy/8YpBnU9OT6w3EgDJAXc9Yt7GdTLwizBwcbw4Oy2m+x+Zki16EgCpATcy+tHbyL6AZ+u7N/PEGZnAOGNOEBCwP2+dGgDg6OJKiS9Mdw4u4PBzEptZGZUkgIOlFFFET3Rrx9eM6jLSLw735PeceYLVHAEAWglQRi8WBGAUoeCWxjsovath16C69gRBkZHgMkEJNWqowABRgOOTDAacGSC0YAjCzAwAACyWzbcmbp5/wAAAABJRU5ErkJggg==) power.
+![[Pasted image 20241020151307.png]]
+# Simplify an Expression
+To simplify an expression, do  all operations in the expression.
+# Order of operations
+1. Parenthesis and Other Grouping Symbols
+2. Exponents
+3. Multiplication and Division
+4. Addition and Subtraction
+# Evaluate an Expression
+To evaluate an expression means to find the value of the expression when the variable is replaced by a given number.
+# Term
+A term is a constant or the product of a constant and one or more variables.
+# Coefficient
+The coefficient of a term is the constant that multiplies the variable in a term.
+# Like Terms
+Terms that are either constants or have the same variables raised to the same powers are called like terms.
+# Translate an English Phrase to an Algebraic Expression
+The symbols and variables we need to translate English phrases to algebraic expressions
+![[Pasted image 20241020152029.png]]
